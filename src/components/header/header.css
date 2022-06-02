@@ -31,7 +31,7 @@
 }
 
 .headerBtn{
-    background-color: #498000;
+    background-color: ;
     color: white;
     font-weight: 500;
     border: none;
@@ -39,7 +39,7 @@
     cursor: pointer;
 }
 
-.headeDesc{
+.headerDesc{
     margin: 20px 0px;
 }
 
@@ -50,9 +50,9 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 10px 3px;
+    padding: 10px 0px;
     border-radius: 5px;
-    position: absolute;
+    /* position: absolute; */
     bottom: -25px;
     width: 100%;
     max-width: 1024px;
